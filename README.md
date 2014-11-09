@@ -1,7 +1,7 @@
 Android-date-time-picker
 ========================
 
-Simple date and timer picker for native android application
+Simple date and time picker for native android application
 
 ####Features:
 * Date and Timer Picker in the same window
